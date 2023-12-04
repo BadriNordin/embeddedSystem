@@ -4,7 +4,7 @@ This README file will teach you how to setup the project locally and connect you
 
 1. Install Laragon: https://laragon.org/download/index.html
 2. Download this project as a ZIP file
-3. Open Laragon and click root
+3. Open Laragon and click "Root"
 4. Copy the extracted "finalProject" folder into the root folder
 5. Click "Start" on Laragon
 6. Click "Terminal" to start the cmder terminal
