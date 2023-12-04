@@ -15,7 +15,7 @@ class testAPI extends Controller
         return ["visitor" => $visitor];   
     }
 
-    public function updateData(Request $request)
+    public function updateData(Request $request) //Update database when sensor detect person
     {
         $newVisitorValue = $request->input('visitor');
 
